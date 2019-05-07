@@ -10,7 +10,7 @@ const store = configureStore();
 
 render(
   <ReduxProvider store={store}>
-    <Router>
+    <Router basename="/MeetupApp/">
       <App />
     </Router>
   </ReduxProvider>,
