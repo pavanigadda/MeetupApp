@@ -1,0 +1,37 @@
+#app {
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+nav {
+  padding: 20px 0;
+}
+
+.no-image {
+  text-align: center;
+}
+
+.content-center {
+  margin-left: 9rem !important;
+}
+
+.content-page {
+  margin-top: 7rem;
+  text-align: center;
+}
+
+.rsvp-names {
+  display: block;
+  min-width: 25rem;
+  padding: 1rem;
+  border-bottom: 1px solid gray;
+}
+
+.rsvp-inline {
+  display: inline-block;
+}
+
+.vertical-align {
+  vertical-align: super;
+  padding-left: 5rem;
+}
