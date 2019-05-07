@@ -1,10 +1,16 @@
 # Guidelines for Meetup Application using React, Redux, Material-UI
 
+## Live Demo: https://pavanigadda.github.io/MeetupApp/
+
 ## Get Started
 
 1. **Install [Node 8](https://nodejs.org)** or newer.
 2. **Navigate to this project's root directory on the command line.**
 3. **Install Node Packages.** - `npm install`
+4. **Running project on dev server(Port 4000)** - `npm start`
+5. **Running unit test cases locally** - `npm t`
+6. **Create a production build** - `npm run build`
+7. **Deploy changes of a production build** - `npm run deploy`
 
 ### Production Dependencies
 
