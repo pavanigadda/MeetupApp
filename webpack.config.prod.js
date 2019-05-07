@@ -13,7 +13,7 @@ module.exports = {
   entry: "./src/index",
   output: {
     path: path.resolve(__dirname, "build"),
-    publicPath: "/",
+    publicPath: "https://pavanigadda.github.io/MeetupApp/",
     filename: "bundle.js"
   },
   plugins: [
